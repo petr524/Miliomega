@@ -1,7 +1,7 @@
 # Miliomega
 ## Overview
 
-PVROČNÍKOVKA is a comprehensive school management system written in C#. This project aims to streamline and automate various administrative and academic tasks within an educational institution. The system includes functionalities for managing attendance, classes, grades, homework, notifications, messages, schedules, profiles, and more.
+Miliomega is a comprehensive school management system written in C#. This project aims to streamline and automate various administrative and academic tasks within an educational institution. The system includes functionalities for managing attendance, classes, grades, homework, notifications, messages, schedules, profiles, and more.
 
 ## Features
 
